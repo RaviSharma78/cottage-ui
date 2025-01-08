@@ -1,2 +1,3 @@
 import './tailwind.css'
-export { Button } from './Button/Button'
+import { E2SAuth } from './themes/E2SAuth'
+export default E2SAuth;

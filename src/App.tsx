@@ -1,10 +1,10 @@
-import { Button } from "cottage-ui";
+import  E2SAuth  from "../lib/main";
 
 function App() {
 	return (
 		<>
 			<div>
-				<Button>Test</Button>
+				<E2SAuth />
 			</div>
 		</>
 	);
